@@ -1,0 +1,40 @@
+.center {
+  border-radius: 30%;
+  width: 30%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.info {
+  text-align: center;
+}
+
+.points {
+  display: inline-block;
+  text-align: left;
+}
+
+table,
+th,
+td {
+  border: 1px solid;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+tr:hover {
+  background-color: blue;
+}
+
+#education {
+  border-collapse: collapse;
+}
+
+.info_a_zajmy {
+  background-color: rgba(0, 255, 255, 0.164);
+}
+
+p {
+  text-align: center;
+}
